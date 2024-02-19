@@ -54,6 +54,7 @@ npm test
 * [NextJs](https://nextjs.org/) - O framework SSR
 * [TanStack](https://tanstack.com/) - Gerente de Dependência
 * [Tailwindcss](https://tailwindcss.com/) - Biblioteca de Gerenciamento de estado
+* [Jest](https://jestjs.io/pt-BR/) - Biblioteca de Testes
 
 
 ---
