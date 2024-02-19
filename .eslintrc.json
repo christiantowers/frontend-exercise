@@ -1,0 +1,5 @@
+{
+  "jest": true,
+  "node": true,
+  "extends": "next/core-web-vitals"
+}

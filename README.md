@@ -1,51 +1,60 @@
-# Flecto: Frontend Exercise
+# Flecto Frontend-exercise
 
-Welcome!
+Esse projeto consiste em uma pagina única que tenha uma listagem paginada de planetas da API do Star Wars e que possa pesquisar por nome e que tenha um detalhamento dos planetas.
 
-Following our previous conversation, we’d like to invite you to our technical challenge where you can showcase all your talents. We know this we’ll be a walk-in-the-park and respect your schedule so rest assured that it won’t take too much of your spare time.
+## 🚀 Começando
 
-## **Overview**
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local.
 
-The main goal of this exercise is for you to do a single page showing a paginated list (either as a table, list, or cards) of weird-named planets from Star Wars. You’ll consume a simple API from [SWAPI](https://swapi.dev/documentation#intro) which you’ll then treat and show.
 
-Feel free to use any components’ library and any Jedi mind tricks you like.
+### 📋 Pré-requisitos
 
-Let's go!
+De que coisas você precisa para instalar o software e como instalá-lo?
 
-## **Task requirements**
-The main requirements are:
-- The user should be able to search for planets;
-- The user should be able to paginate the list of planets;
-- The user should be able to see details about the selected planet.
+```
+Node acima da versão 18 e NPM
+```
 
-API Documentation: https://swapi.dev/documentation#intro
+### 🔧 Instalação
 
-## **Delivery instructions**
-Fork this repository to your own github profile and use it to develop your solution. After done, just send us the link for your forked repository.
+Passo-a-passo simples para a execução.
 
-## **What we expect**
-⚛️ React and TypeScript
+```
+npm install
+```
+ou
+```
+yarn install
+```
 
-🐞 Unit / integration tests
+em seguida execute o comando
+```
+npm run dev
+```
+ou
+```
+yarn dev
+```
 
-💅 A nice design using CSS
+## ⚙️ Executando os testes
 
-📄 Clear README.md
+Para executar os testes do sistema basta executar o script.
 
-## What w**e’d love to see**
+```
+yarn test
+```
+ou
+```
+npm test
+```
 
-🔥 NextJS
+## 🛠️ Construído com
 
-🔥 TanStack Query / SWR
+* [React](https://react.dev/) - A Biblioteca Javascript
+* [NextJs](https://nextjs.org/) - O framework SSR
+* [TanStack](https://tanstack.com/) - Gerente de Dependência
+* [Tailwindcss](https://tailwindcss.com/) - Biblioteca de Gerenciamento de estado
 
-## What would be nice
-If you have the time, you might want to add these to your project:
 
-🎨 Responsive layout
-
-📱 Mobile suppport
-
-## **Additional information**
-Feel free to reach out if you have any question and don’t hesitate regardless of how simple or silly your questions might look like. We are here to provide you all the conditions for you to shine ✨
-
-There’s no deadline only good sense.
+---
+⌨️ coded por [Christian Torres](https://github.com/christiantowers) 😊
